@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+# Just because I may want to ignore some files
+*.ignore
+
+# Vim hidden files (sometimes I forget and those become a problem)
+*.swp
+
+# The executable
+bin/bin
+
 # Object files
 *.o
 *.ko
